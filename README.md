@@ -1,7 +1,11 @@
 #Movie recommender system
+
 ##table of content
+
  *Demo
+	
  *Overview
+	
  *Technical Aspect
  
  *Demo
