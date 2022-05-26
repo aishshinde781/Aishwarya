@@ -30,12 +30,8 @@ table of content
 4.Technical Acpects
 This project is divided into two part:
 
-Training a machine learning model using 
-Building and hosting a Flask web app on Heroku.
-A user can choose image from a device or capture it using a pre-built camera.
-Used Amazon S3 Bucket to store the uploaded image and predictions.
-Used CSRF Token to protect against CSRF attacks.
-Used Sentry to catch the exception on the back-end.
-After uploading the image, the predictions are displayed on a Bar Chart.
+1. Training a machine learning model using numpy
+2. Building and hosting a Streanlit web app on Heroku.
+  
  
 
