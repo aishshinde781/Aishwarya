@@ -1,4 +1,4 @@
-Python3.8 Movie recommender system
+Movie recommender system
 
 table of content
 
